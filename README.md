@@ -19,7 +19,7 @@ For tissue classification problem:
 
 Transfer Learning problem:
 
-1.	The code for training on Lun cancer images \Adam optimizer\Transfer Learning\ GoogleNet_Lung_cancer.ipynb
+1.	The code for training on Lung cancer images \Adam optimizer\Transfer Learning\ GoogleNet_Lung_cancer.ipynb
 2.	The code for Transfer learning \Adam optimizer\Transfer Learning\ GoogleNet_2_LCancerTL_test.ipynb
 
 For segmentation problem:
@@ -35,6 +35,6 @@ For Traditional Methods
 
 For Fine Tuning of Xception
 
-1. The codes are in the path: \Fine Tuning of Xception\
+1. The codes are in the path: \Fine Tuning Xception\
 
 
